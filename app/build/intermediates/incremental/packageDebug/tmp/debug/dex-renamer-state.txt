@@ -1,0 +1,4 @@
+#Mon Jul 08 15:35:59 IST 2019
+base.0=/Users/sysadmin/Desktop/Barcode-ReaderV2.0.0.0/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

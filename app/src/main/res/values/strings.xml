@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Creiss</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">@string/appname</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+    <string name="path_preference_title">Directory Path</string>
+    <string name="path_preference_category_title">Storage</string>
+    <string name="path_preference_key">pref_key_path</string>
+    <string name="str_auth_empty">The key can\'t be empty.</string>
+    <string name="str_auth_long"><![CDATA[The key can\'t be >100 characters.]]></string>
+    <string name="str_auth_key_wrong">Please check the key.</string>
+    <string name="str_wait">Please wait..</string>
+    <string name="str_verify">Verify</string>
+    <string name="scan_product_code">Scan Product Code</string>
+    <string name="scan_trip_code">Scan Trip Code</string>
+    <string name="network_error">Please check your internet connectivity</string>
+    <string name="alert_ok">OK</string>
+    <string name="path_not_defined_message">Please select directory path from Settings !</string>
+    <string name="notification_title">Creiss</string>
+    <string name="notification_message">Files synced with server successfully</string>
+    <string name="trip_files_success_message_1">Files are saved at &#160;</string>
+    <string name="trip_files_success_message_2">&#160; Successfully</string>
+</resources>
